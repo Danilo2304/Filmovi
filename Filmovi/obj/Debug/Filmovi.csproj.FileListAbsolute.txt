@@ -1,0 +1,13 @@
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.frmCreateAccount.resources
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.cache
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.frmListaFilmova.resources
+C:\Users\Danilo\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.frmFilm.resources
